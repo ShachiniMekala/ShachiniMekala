@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" alt="GIF" src="https://www.seniorvu.com/wp-content/uploads/2020/06/Digital-Marketing-Gif.2020-06-04-13_02_58.gif" width="300" height="150" />
 Final Year Undergraduate
 <br />
 Faculty of Information Technology, University of Moratuwa, Sri Lanka
@@ -6,7 +7,7 @@ Faculty of Information Technology, University of Moratuwa, Sri Lanka
 Interested in Web Development
 
 # 📫 Reach me via: 
-[<img align="left" alt="s_LinkedIn" width="30px" height="30px" src="https://lh3.googleusercontent.com/proxy/Cux41XhXG9Jqkt5ZdRBNkqupGXB0SIr6ljECl9Y4lmN2j8gSPS29kea1al8-3WlpQ4dHF3jCx0ucnPqENxMEDC54YwBmlRn3MvdptKmctabMt_6VmsALOsZFIQ" />](https://www.linkedin.com/in/shachini-karunarathne)
+[<img align="left" alt="s_LinkedIn" width="35px" height="30px" src="https://lh3.googleusercontent.com/proxy/Cux41XhXG9Jqkt5ZdRBNkqupGXB0SIr6ljECl9Y4lmN2j8gSPS29kea1al8-3WlpQ4dHF3jCx0ucnPqENxMEDC54YwBmlRn3MvdptKmctabMt_6VmsALOsZFIQ" />](https://www.linkedin.com/in/shachini-karunarathne)
 [<img align="left" alt="s_Facebook" width="30px" height="30px" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true" />](https://www.facebook.com/shachini.mekala.9)
 <br />
 
