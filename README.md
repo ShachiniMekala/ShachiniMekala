@@ -17,11 +17,11 @@ Interested in Web Development
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/ShachiniMekala/ShachiniMekala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShachiniMekala&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShachiniMekala&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ShachiniMekala/ShachiniMekala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShachiniMekala&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShachiniMekala&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 <!--
 **ShachiniMekala/ShachiniMekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
