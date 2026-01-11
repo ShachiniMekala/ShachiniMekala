@@ -1,7 +1,7 @@
 # Hi there 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShachiniMekala&color=blue)
 
-<img align="right" alt="GIF" src="https://www.seniorvu.com/wp-content/uploads/2020/06/Digital-Marketing-Gif.2020-06-04-13_02_58.gif" width="300" height="150" />
+<img align="right" alt="Coding Girl GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF2aWYzYWl4MGo4b2lvOHloYXdkOTdhbXhhbWY4OWU4b3I1emY1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 
 Graduated from Faculty of Information Technology, University of Moratuwa, Sri Lanka  
 **Senior Software Engineer** | Interested in Web Development
