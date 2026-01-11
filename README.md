@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://www.seniorvu.com/wp-content/uploads/2020/06/Digital-Marketing-Gif.2020-06-04-13_02_58.gif" width="300" height="150" />
 Graduated from Faculty of Information Technology, University of Moratuwa, Sri Lanka
 <br/>
-Senior Software Enginee
+Senior Software Engineer
 <br/>
 Interested in Web Development
 
